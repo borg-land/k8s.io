@@ -1,2 +1,0 @@
-NAME                              TITLE
-storage-component.googleapis.com  Cloud Storage

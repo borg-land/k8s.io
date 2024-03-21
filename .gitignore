@@ -4,3 +4,5 @@
 
 # Ignore vscode config files
 .vscode
+.terraform
+terraform.state

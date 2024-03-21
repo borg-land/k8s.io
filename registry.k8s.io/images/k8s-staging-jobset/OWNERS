@@ -1,8 +1,0 @@
-# See the OWNERS file documentation:
-#  https://github.com/kubernetes/community/blob/master/contributors/devel/owners.md
-
-approvers:
-- ahg-g
-- danielvegamyhre
-labels:
-- sig/apps
